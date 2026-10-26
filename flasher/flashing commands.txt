@@ -1,0 +1,3 @@
+aura_update.exe -p firmwarefile.bin <-this flashes a given binary.
+aura_update.exe -s firmware_backup.bin <-this backs up the firmware currently flashed.
+aura_update.exe -c firmware_current.bin <-this compares a given binary to whatever is flashed to the controller currently.
